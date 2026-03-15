@@ -1,0 +1,17 @@
+{
+  "name": "keno-winning-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runExport.js",
+  "scripts": {
+      "updateCsv": "node ./runExport.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.23",
+    "dayjs": "1.11.19",
+    "axios": "1.13.4"
+  }
+}
